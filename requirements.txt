@@ -1,0 +1,4 @@
+django
+msal
+requests
+python-dotenv
